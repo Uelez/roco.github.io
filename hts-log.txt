@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 29 Mar 2024 03:13:49 at https://ROCOsol.life/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+ROCOROCO
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://cocosol.life/ -O1 "D:\Websites\coco" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mROCOontain sensitive information,ROCO
+ROCOROCO
+	such as username/password authentication for websiROCOmirrored in this projectROCO
+ROCOROCO
+	do not share these files/folders if you want theseROCOormation to remain privateROCO
+ROCOROCO
+ROCOROCO
+ROCOROCO
+03:14:08	Error: 	"Not Found" (404) at link https://ROCOsol.life/fonts/eicons.eot?5.21.0 (from https://cocoROCOlife/index_files/elementor-icons.min.css)
+ROCOROCO
+03:14:08	Error: 	"Not Found" (404) at link https://ROCOsol.life/fonts/eicons.woff2?5.21.0 (from https://cROCOol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/fonts/eicons.woff?5.21.0 (from https://cocosol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/fonts/eicons.ttf?5.21.0 (from https://cocosol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/fonts/eicons.svg?5.21.0 (from https://cocosol.life/index_files/elementor-icons.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.eot (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.eot? (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.woff2 (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.woff (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.ttf (from https://cocosol.life/index_files/brands.min.css)
+
+03:14:08	Error: 	"Not Found" (404) at link https://cocosol.life/webfonts/fa-brands-400.svg (from https://cocosol.life/index_files/brands.min.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 64 links scanned, 52 files written (14747025 bytes overall) [14174987 bytes received at 746051 bytes/sec], 799678 bytes transferred using HTTP compression in 29 files, ratio 25%, 12.8 requests per connection
+
+(11 errors, 0 warnings, 0 messages)
+
